@@ -1,0 +1,25 @@
+img {
+    text-align: center;
+}
+h1 {
+    font-family: sans-serif;
+    color:blue;
+    font-weight: bold;
+    text-align: center;
+}
+h2 {
+    color:red;
+    text-align: center;
+    font-weight:bold;
+}
+.caption {
+    font-weight:center;
+    color:blueviolet;
+    text-align: center;
+    background-color:aliceblue;
+}
+
+.container-fluid {
+    background-color: aliceblue;
+    text-align:left;
+}
